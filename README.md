@@ -1,4 +1,4 @@
-# Generador de Contraseñas
+# Generador de Contraseñas Seguras
 
 ## 📌 Descripción
 Este proyecto es un generador de contraseñas desarrollado en **Python**, como parte del Trabajo Autónomo 2.  
