@@ -7,7 +7,7 @@ En esta versión inicial, el programa genera automáticamente una contraseña se
 ---
 
 ## 🎯 Objetivo del Proyecto
-Implementar un sistema básico de generación de contraseñas seguras como parte del proceso de aprendizaje, aplicando:
+Implementar un script básico de generación de contraseñas seguras como parte del proceso de aprendizaje, aplicando:
 - Configuración de entorno de desarrollo.
 - Uso de estructuras lógicas y repetitivas.
 - Documentación y control de versiones con GitHub.
