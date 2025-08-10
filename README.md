@@ -30,4 +30,4 @@ Implementar un script básico de generación de contraseñas seguras como parte 
 
 3. **Clonar este repositorio:**  
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
+   git clone https://github.com/T-TelianerazoT-T/password-generator.git
