@@ -20,13 +20,19 @@ Implementar un script básico de generación de contraseñas seguras como parte 
 - **Control de versiones:** Git y GitHub
 
 ---
+
 ## 📂 Diagramas del Sistema
 ### Diagrama de Caso de Uso
 El sistema permite generar contraseñas personalizadas, donde el usuario define la longitud y el tipo de caracteres (incluyendo opciones para incluir o excluir símbolos). Además, ofrece funcionalidades avanzadas como validación automática de seguridad, copiado al portapapeles, almacenamiento en archivo, envío por correo y reinicio del proceso.
 
+<img width="1538" height="1463" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/28393b7e-11fd-4d9b-ac59-e3aa3186aa48" />
+
 ---
+
 ### Diagrama de Arquitectura
 La aplicación sigue una estructura por capas: la presentación maneja la interfaz gráfica, la lógica contiene el generador y validador de contraseñas, la capa de servicios gestiona utilidades como el portapapeles y formateo de datos, mientras que la persistencia se encarga del guardado en archivo y envío por correo electrónico.
+
+<img width="1391" height="3743" alt="Diagrama de arquitectura" src="https://github.com/user-attachments/assets/6e1d78e2-6894-4f75-bcf4-e9b8265e8cbb" />
 
 ---
 
