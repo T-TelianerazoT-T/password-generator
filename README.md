@@ -46,3 +46,6 @@ La aplicación sigue una estructura por capas: la presentación maneja la interf
 3. **Clonar este repositorio:**  
    ```bash
    git clone https://github.com/T-TelianerazoT-T/password-generator.git
+
+4. **link del video**
+   https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/elerazoma_uide_edu_ec/Ea0cMrc3jeVFu_TxyEagfi8BjpurIY8lpJfl149_FUQ3cw
