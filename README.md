@@ -1,3 +1,76 @@
+
+# 🔐 Generador de Contraseñas Seguras - Proyecto de Ciberseguridad
+
+## 📖 Tabla de Contenidos
+- 🎯 [Objetivo del Proyecto](#-objetivo-del-proyecto)
+- ✨ [Características Principales](#-características-principales)
+- 🛡️ [Aspectos de Seguridad](#-aspectos-de-seguridad)
+- 📋 [Requisitos del Sistema](#-requisitos-del-sistema)
+- 🚀 [Instalación y Ejecución](#-instalación-y-ejecución)
+- 🎮 [Guía de Uso](#-guía-de-uso)
+- 🏗️ [Arquitectura del Sistema](#-arquitectura-del-sistema)
+- 🔧 [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+- 📊 [Diagramas del Sistema](#-diagramas-del-sistema)
+- 🐛 [Troubleshooting](#-troubleshooting)
+- 📝 [Plan de Pruebas](#-plan-de-pruebas)
+- 🔮 [Futuras Mejoras](#-futuras-mejoras)
+- 👥 [Contribución](#-contribución)
+- 📄 [Licencia](#-licencia)
+- 👨‍💻 [Autor](#-autor)
+
+## 🎯 Objetivo del Proyecto
+
+Este proyecto tiene como objetivo principal desarrollar una herramienta robusta y segura en **Python** para la generación de contraseñas complejas mediante algoritmos criptográficos.  
+Se busca implementar las mejores prácticas de seguridad informática y ofrecer múltiples opciones de gestión para la protección de credenciales digitales.
+
+### Objetivos Específicos
+- ✅ Implementar seguridad criptográfica usando módulos especializados  
+- ✅ Permitir personalización avanzada de parámetros de generación  
+- ✅ Garantizar compatibilidad multiplataforma (Windows, macOS, Linux)  
+- ✅ Ofrecer gestión integral de contraseñas generadas  
+- ✅ Educar en ciberseguridad mediante análisis de fortaleza  
+- ✅ Proporcionar experiencia de usuario intuitiva y robusta
+
+## ✨ Características Principales
+
+### 🔐 Generación Segura
+- Longitud personalizable (mínimo **8 caracteres**)  
+- Inclusión/exclusión de caracteres especiales  
+- Algoritmo criptográfico usando `secrets` y `SystemRandom`  
+- Garantía de complejidad: mayúsculas, minúsculas, dígitos y caracteres especiales  
+
+### 📋 Gestión de Contraseñas
+- 📋 Copia al portapapeles nativa del sistema operativo  
+- 💾 Guardado en archivo con metadatos de seguridad  
+- 📧 Envío por correo electrónico mediante protocolo **TLS**  
+- 📊 Análisis de fortaleza con métricas detalladas  
+
+### 🎨 Experiencia de Usuario
+- Interfaz intuitiva en **terminal** con emojis  
+- Manejo robusto de errores y validaciones  
+- Reinicio del programa sin necesidad de cerrarlo  
+- Feedback claro en cada operación  
+
+### 🛡️ Seguridad Integrada
+- Validación de entradas contra inyecciones  
+- Manejo seguro de credenciales SMTP  
+- Encriptación **TLS** para envío de correos  
+- Metadatos de auditoría en archivos guardados
+
+## 🛡️ Aspectos de Seguridad
+
+### 🔐 Algoritmo de Generación
+```python
+# Utiliza secrets para criptografía segura
+password_chars.append(secrets.choice(conjunto))
+
+# Mezcla con SystemRandom ( /dev/urandom o CryptGenRandom )
+_sysrand.shuffle(password_chars)
+
+
+
+
+
 # Generador de Contraseñas Seguras
 
 ## 📌 Descripción
