@@ -167,7 +167,7 @@ Consulta el archivo [LICENSE](LICENSE) para más detalles.
 **Elian Erazo** - Estudiante de Ingeniería en Ciberseguridad
 
 - 📧 Email: elerazom@uide.edu.ec  
-- 🌐 GitHub: [@elianerazo](https://github.com/T-TelianerazoT-T)  
+- 🌐 GitHub: [@T-TelianerazoT-T](https://github.com/T-TelianerazoT-T)  
 - 🔗 LinkedIn: [Elian Erazo]
 
 ### 🙏 Agradecimientos
