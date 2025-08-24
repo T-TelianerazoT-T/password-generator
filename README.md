@@ -80,11 +80,32 @@ _sysrand.shuffle(password_chars)
 - Cuenta Gmail con verificación en 2 pasos activada
 - Contraseña de aplicación generada
 
+## 🚀 Instalación y Ejecución
 
+### 📥 Clonación del Repositorio
+```bash
+git clone https://github.com/tuusuario/generador-contrasenas.git
+cd generador-contrasenas
+```
 
+### 🐍 Ejecución Directa
+```bash
+# Método 1: Ejecutar directamente
+python generador_contrasenas.py
 
+# Método 2: Hacer ejecutable (Unix/macOS)
+chmod +x generador_contrasenas.py
+./generador_contrasenas.py
 
-
+# Método 3: Desde cualquier ubicación
+python /ruta/completa/generador_contrasenas.py
+```
+### 🔧 Dependencias
+No se requieren instalaciones adicionales — solo Python estándar:
+```python
+import secrets, string, random, os, subprocess, sys
+import smtplib, datetime, email
+```
 
 
 
