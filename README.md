@@ -152,7 +152,7 @@ sudo apt-get install xclip
 
 ### ❌ Problemas de encoding:
 ```bash 
-PYTHONUTF8=1 python generador_contrasenas.py
+PYTHONUTF8=1 python generador.py
 ```
 
 ## 📜 Licencia
