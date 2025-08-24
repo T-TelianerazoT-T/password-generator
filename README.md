@@ -57,7 +57,7 @@ Se busca implementar las mejores prácticas de seguridad informática y ofrecer 
 - Encriptación **TLS** para envío de correos  
 - Metadatos de auditoría en archivos guardados
 
-## 🛡️Aspectos de Seguridad
+## 🛡️ Aspectos de Seguridad
 
 ### 🔐 Algoritmo de Generación
 ```python
