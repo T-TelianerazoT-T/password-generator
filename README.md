@@ -177,3 +177,11 @@ Consulta el archivo [LICENSE](LICENSE) para más detalles.
 - Testers que ayudaron a mejorar la calidad y robustez del software.  
 
 ⭐ Si este proyecto te fue útil, ¡dale una estrella en GitHub!
+
+link de la presentacion 
+```link
+https://www.popai.pro/share.html?shareKey=bbd4a244dfd1dad1b301123ce6ebea41412355e482664ff350455c87dbf9e435&utm_source=presentationsharepage&inviteCode=IN_61NcWyBZpiM
+```
+
+link del video
+
