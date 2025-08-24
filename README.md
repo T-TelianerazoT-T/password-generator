@@ -4,7 +4,7 @@
 ## 📖 Tabla de Contenidos
 - 🎯 [Objetivo del Proyecto](#-objetivo-del-proyecto)
 - ✨ [Características Principales](#-características-principales)
-- 🛡️ [Aspectos de Seguridad](#aspectos-de-seguridad)
+- 🛡️ [Aspectos de Seguridad](#-aspectos-de-seguridad)
 - 📋 [Requisitos del Sistema](#-requisitos-del-sistema)
 - 🚀 [Instalación y Ejecución](#-instalación-y-ejecución)
 - 🎮 [Guía de Uso](#-guía-de-uso)
