@@ -79,7 +79,7 @@ _sysrand.shuffle(password_chars)
 
 ### 📥 Clonación del Repositorio
 ```bash
-git clone https://github.com/tuusuario/generador-contrasenas.git
+git clone https://github.com/T-TelianerazoT-T/password-generator.git
 ```
 ```bash
 cd password-generator/src
