@@ -51,11 +51,7 @@ Se busca implementar las mejores prácticas de seguridad informática y ofrecer 
 - Reinicio del programa sin necesidad de cerrarlo  
 - Feedback claro en cada operación  
 
-### 🛡️ Seguridad Integrada
-- Validación de entradas contra inyecciones  
-- Manejo seguro de credenciales SMTP  
-- Encriptación **TLS** para envío de correos  
-- Metadatos de auditoría en archivos guardados
+
 
 ## 🛡️ Aspectos de Seguridad
 
