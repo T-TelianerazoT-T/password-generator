@@ -59,6 +59,8 @@ Se busca implementar las mejores prácticas de seguridad informática y ofrecer 
 
 ## 🛡️ Aspectos de Seguridad
 
+## 🛡️ Aspectos de Seguridad
+
 ### 🔐 Algoritmo de Generación
 ```python
 # Utiliza secrets para criptografía segura
