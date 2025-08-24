@@ -8,13 +8,8 @@
 - 📋 [Requisitos del Sistema](#-requisitos-del-sistema)
 - 🚀 [Instalación y Ejecución](#-instalación-y-ejecución)
 - 🎮 [Guía de Uso](#-guía-de-uso)
-- 🏗️ [Arquitectura del Sistema](#-arquitectura-del-sistema)
-- 🔧 [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - 📊 [Diagramas del Sistema](#-diagramas-del-sistema)
 - 🐛 [Troubleshooting](#-troubleshooting)
-- 📝 [Plan de Pruebas](#-plan-de-pruebas)
-- 🔮 [Futuras Mejoras](#-futuras-mejoras)
-- 👥 [Contribución](#-contribución)
 - 📄 [Licencia](#-licencia)
 - 👨‍💻 [Autor](#-autor)
 
@@ -91,8 +86,8 @@ cd generador-contrasenas
 ```
 
 ### 🐍 Ejecución Directa
-# Método 1: Ejecutar directamente
 ```bash
+# Método 1: Ejecutar directamente****
 python generador_contrasenas.py
 ```
 ```bash
@@ -111,11 +106,23 @@ import secrets, string, random, os, subprocess, sys
 import smtplib, datetime, email
 ```
 
+## 🎮 Guía de Uso
+### 1. 🏁 Inicio del Programa
+```bash
+python generador_contrasenas.py
+```
 
+### ⚙️ Configuración de Parámetros
+- Longitud: Ingresa número ≥ 8
+- Caracteres especiales: Responde s o n
 
-
-
-
+### 🔄 Generación y Opciones
+1. 📋 Copiar al portapapeles
+2. 💾 Guardar en archivo
+3. 📧 Enviar por correo
+4. 📊 Mostrar análisis de fortaleza
+5. 🔄 Generar nueva contraseña
+6. 🚪 Salir del programa
 
 
 
