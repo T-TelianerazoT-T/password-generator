@@ -184,4 +184,6 @@ https://www.popai.pro/share.html?shareKey=bbd4a244dfd1dad1b301123ce6ebea41412355
 ```
 
 link del video
-
+```link
+https://mailinternacionaledu-my.sharepoint.com/personal/elerazoma_uide_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Felerazoma%5Fuide%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%20de%20Nueva%20reuni%C3%B3n%2D20250824%5F011027%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E83b60df7%2D486d%2D49d6%2Da5fc%2D3e8addf988fc
+```
