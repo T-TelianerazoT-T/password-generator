@@ -60,12 +60,12 @@ Se busca implementar las mejores prácticas de seguridad informática y ofrecer 
 ## 🛡️ Aspectos de Seguridad
 
 ### 🔐 Algoritmo de Generación
-
+```python```
 # Utiliza secrets para criptografía segura
 password_chars.append(secrets.choice(conjunto))
 
 # Mezcla con SystemRandom ( /dev/urandom o CryptGenRandom )
-_sysrand.shuffle(password_chars)
+_sysrand.shuffle(password_chars) 
 
 
 
