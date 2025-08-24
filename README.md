@@ -67,7 +67,45 @@ password_chars.append(secrets.choice(conjunto))
 # Mezcla con SystemRandom ( /dev/urandom o CryptGenRandom )
 _sysrand.shuffle(password_chars) 
 ```
-##
+## 📋 Requisitos del Sistema
+
+### ✅ Requisitos Mínimos
+- Python: 3.6 o superior
+- Sistema Operativo: Windows 7+, macOS 10.9+, o Linux moderno
+- Memoria RAM: 512 MB mínimo
+- Espacio en disco: 10 MB disponibles
+
+### 📧 Para Envío de Correos
+- Conexión a Internet temporal
+- Cuenta Gmail con verificación en 2 pasos activada
+- Contraseña de aplicación generada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
