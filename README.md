@@ -85,6 +85,8 @@ _sysrand.shuffle(password_chars)
 ### 📥 Clonación del Repositorio
 ```bash
 git clone https://github.com/tuusuario/generador-contrasenas.git
+```
+```bash
 cd generador-contrasenas
 ```
 
@@ -92,11 +94,13 @@ cd generador-contrasenas
 ```bash
 # Método 1: Ejecutar directamente
 python generador_contrasenas.py
-
+```
+```bash
 # Método 2: Hacer ejecutable (Unix/macOS)
 chmod +x generador_contrasenas.py
 ./generador_contrasenas.py
-
+```
+```bash
 # Método 3: Desde cualquier ubicación
 python /ruta/completa/generador_contrasenas.py
 ```
