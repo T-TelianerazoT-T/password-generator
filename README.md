@@ -82,22 +82,22 @@ _sysrand.shuffle(password_chars)
 git clone https://github.com/tuusuario/generador-contrasenas.git
 ```
 ```bash
-cd generador-contrasenas
+cd password-generator/src
 ```
 
 ### 🐍 Ejecución Directa
 ```bash
 # Método 1: Ejecutar directamente****
-python generador_contrasenas.py
+python generador.py
 ```
 ```bash
 # Método 2: Hacer ejecutable (Unix/macOS)
-chmod +x generador_contrasenas.py
-./generador_contrasenas.py
+chmod +x generador.py
+./generador.py
 ```
 ```bash
 # Método 3: Desde cualquier ubicación
-python /ruta/completa/generador_contrasenas.py
+python /ruta/completa/generador.py
 ```
 ### 🔧 Dependencias
 No se requieren instalaciones adicionales — solo Python estándar:
@@ -109,7 +109,7 @@ import smtplib, datetime, email
 ## 🎮 Guía de Uso
 ### 1. 🏁 Inicio del Programa
 ```bash
-python generador_contrasenas.py
+python generador.py
 ```
 
 ### ⚙️ Configuración de Parámetros
