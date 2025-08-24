@@ -69,6 +69,7 @@ password_chars.append(secrets.choice(conjunto))
 # Mezcla con SystemRandom ( /dev/urandom o CryptGenRandom )
 _sysrand.shuffle(password_chars) 
 ```
+---
 
 
 
