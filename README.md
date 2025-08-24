@@ -135,12 +135,32 @@ La aplicación sigue una estructura por capas: la presentación maneja la interf
 
 <img width="1391" height="3743" alt="Diagrama de arquitectura" src="https://github.com/user-attachments/assets/6e1d78e2-6894-4f75-bcf4-e9b8265e8cbb" />
 
+## 🐛 Troubleshooting
+### ❌ Problemas Comunes y Soluciones
+Error al copiar al portapapeles:
+```bash
+# Linux: Instalar xclip
+sudo apt-get install xclip
+```
+- macOS: Funciona nativo
+- Windows: Funciona nativo
 
+### ❌ Error de autenticación SMTP:
+- ✅ Activar verificación en 2 pasos en Google
+- ✅ Generar contraseña de aplicación
+- ✅ Usar ESA contraseña, no la normal
 
+### ❌ Problemas de encoding:
+```bash 
+PYTHONUTF8=1 python generador_contrasenas.py
+```
 
+## 📜 Licencia
 
+Este proyecto fue desarrollado como parte de un deber universitario.  
+Puedes utilizarlo y modificarlo libremente bajo la licencia MIT.  
 
-
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 
 
