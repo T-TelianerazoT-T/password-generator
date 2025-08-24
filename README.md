@@ -91,8 +91,8 @@ cd generador-contrasenas
 ```
 
 ### 🐍 Ejecución Directa
-```bash
 # Método 1: Ejecutar directamente
+```bash
 python generador_contrasenas.py
 ```
 ```bash
